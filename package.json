@@ -1,0 +1,15 @@
+{
+  "name": "alexa-controller",
+  "version": "1.0.0",
+  "description": "A WeMo emulator for running local commands on your machine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Berger",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "wemore": "^0.3.0"
+  }
+}
