@@ -1,5 +1,5 @@
 {
-  "name": "alexa-controller",
+  "name": "alexa-mac-controller",
   "version": "1.0.0",
   "description": "A WeMo emulator for running local commands on your machine",
   "main": "app.js",

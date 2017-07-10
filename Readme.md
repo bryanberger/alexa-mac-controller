@@ -1,4 +1,4 @@
-## Alexa Sleep/Wake a Mac
+## Alexa Mac Controller
 
 Uses the WeMo emulator [wemore](https://github.com/dhleong/wemore) to expose an on/off command to Alexa to put your mac to sleep, and to wake it up (immediately).
 

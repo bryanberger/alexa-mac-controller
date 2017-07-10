@@ -17,8 +17,3 @@ computer.on('on', function() {
 computer.on('off', function() {
   exec('pmset sleepnow', function(error, stdout, stderr) {})
 })
-
-// computer.on('state', function(binaryState) {
-//     console.log("Computer set to=", binaryState);
-//     computer.close(); // stop advertising the device
-// });
